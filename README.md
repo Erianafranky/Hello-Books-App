@@ -7,9 +7,13 @@ Hello-Books is a simple application that helps manage a library and its processe
 Hello-Books Application features
 
 1.Users can create an account and log in
+
 2.Users can view books.
+
 3.Only Authenticated Users can borrow and return books.
+
 4.Only admin users should be able to add, modify and delete book information 
+
 5.Users can view their profile and their borrowing history
 
 
