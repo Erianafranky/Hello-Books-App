@@ -4,7 +4,7 @@
 
 Hello-Books is a simple application that helps manage a library and its processes like stocking, tracking and renting books.
 
-Hello-Books Application features
+**Hello-Books Application features**
 
 1.Users can create an account and log in
 
