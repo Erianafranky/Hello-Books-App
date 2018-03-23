@@ -24,5 +24,7 @@ Follow these steps to use this project:
 
 1. Git clone the project into your machine($ git clone https://github.com/Erianafranky/Hello-Books-App.git)
 
+2. The User Interface pages for the front-end application are hosted in [github-Pages] (https://erianafranky.github.io/Hello-Books-App/)
+
 
 
